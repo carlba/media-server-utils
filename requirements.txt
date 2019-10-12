@@ -1,0 +1,22 @@
+atomicwrites==1.3.0
+attrs==18.2.0
+babelfish==0.5.5
+certifi==2019.9.11
+chardet==3.0.4
+Click==7.0
+guessit==3.1.0
+idna==2.8
+# Editable install with no version control (media-server-utils==0.1.0)
+-e /Users/cbackstrom/development/media-server-utils
+more-itertools==6.0.0
+pluggy==0.8.1
+py==1.7.0
+pytest==4.2.0
+pytest-testdox==1.0.1
+python-dateutil==2.8.0
+python-dotenv==0.10.3
+rebulk==2.0.0
+requests==2.22.0
+six==1.12.0
+transmissionrpc==0.11
+urllib3==1.25.6

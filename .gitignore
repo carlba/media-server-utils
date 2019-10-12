@@ -1,0 +1,23 @@
+# Jetbrains Products
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# vi/vim
+*.*~
+
+# MacOS
+.DS_Store
+
+# Python
+*.pyc
+dist/
+venv/
+pypkg/
+nosetests.xml
+*.egg-info/
+
+# Project Specific
+processed.json
