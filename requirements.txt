@@ -10,7 +10,7 @@ idna==2.8
 -e /Users/cbackstrom/development/media-server-utils
 more-itertools==6.0.0
 pluggy==0.8.1
-py==1.7.0
+py==1.10.0
 pytest==4.2.0
 pytest-testdox==1.0.1
 python-dateutil==2.8.0
